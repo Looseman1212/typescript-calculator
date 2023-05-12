@@ -1,4 +1,4 @@
-	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
   This is a project for me to learn some of the ins and outs of managing a user interacting with a page and reflecting results back to the user. I build this project from scratch, and I wanted to challenge myself by not using any tutorials and only referencing google to solve any of the problems I had along the way.
 
